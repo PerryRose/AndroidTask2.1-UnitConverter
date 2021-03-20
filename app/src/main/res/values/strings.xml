@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="unitsToConvert">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+    <string name="valueToConvertEditTextHint">Enter Value</string>
+    <string name="imageTapeMeasureDescription">A Tape Measurer</string>
+    <string name="imageThermometerMeasureDescription">A Thermometer</string>
+    <string name="imageKilogramMeasureDescription">A Kilogram Weight</string>
+</resources>
